@@ -1,6 +1,18 @@
 # ProfecoScraper
 Scraper de precios del sitio web de profeco
 
-# Prueba
+## Descripción
 
-Probamos a editar desde atom
+Breve descripción del proyecto
+
+## Dependencias externas
+
+Un navegador, una base de datos, etc.
+
+## Dependencias de python
+
+Paquetes necesario, poetry?
+
+##  Instrucciones de instalación y uso
+
+Van las instrucciones
